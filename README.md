@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **a time series forecasting project for bed prediction**
 
-- 🌱 I’m currently learning **Transformers and LLMs**
-
-- 👯 I’m looking to collaborate on **Healthtech projects**
+- 🌱 I’m currently working on petzia, an AI platform to enhance staff management at veterinarian clinics. Check out our website petzia.fr
 
 - 📫 How to reach me **njimenez5007@gmail.com**
 
