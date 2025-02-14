@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a time series forecasting project for bed prediction**
 
-- 🌱 I’m currently working on petzia, an AI platform to enhance staff management at veterinarian clinics. Check out our website petzia.fr
+- 🌱 I’m currently working on petzia, an AI platform to enhance staff management at veterinarian clinics. Get more info on [**petzia**](petzia.fr)
 
 - 📫 How to reach me **njimenez5007@gmail.com**
 
