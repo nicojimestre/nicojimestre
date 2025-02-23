@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">the tech support of my whole family (I did CS at uni)</h3>
 
-- 🔭 I’m currently working on **a time series forecasting project for bed prediction**
-
-- 🌱 I’m currently working on petzia, an AI platform to enhance staff management at veterinarian clinics. Get more info on [**petzia**](https://petzia.fr)
-
+- 🔭 I’m currently working on **Joy, the new AI HR assistant for veterinarian clinics**. Get more info on [**petzia**](https://petzia.fr)
+  
 - 📫 How to reach me **njimenez5007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
